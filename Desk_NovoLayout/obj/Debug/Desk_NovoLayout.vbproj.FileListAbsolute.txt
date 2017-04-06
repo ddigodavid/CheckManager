@@ -1,0 +1,413 @@
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.Form1.resources
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroPlanoContas.resources
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.CadastroClientes.resources
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+F:\3° Ano\LP III\PTI\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.CadastroClientes.resources
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.Form1.resources
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroPlanoContas.resources
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaTotGasto.resources
+C:\Users\13010082\Desktop\Desk_NovoLayout\Desk_NovoLayout\obj\Debug\tela_inicial.SomaPlanoContas.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FrmImp.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.CadastroClientes.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Form1.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroPlanoContas.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaTotGasto.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.SomaPlanoContas.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.login.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FrmImp.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.CadastroClientes.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Form1.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroPlanoContas.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaTotGasto.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.login.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.SomaPlanoContas.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.CadastroClientes.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Form1.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroPlanoContas.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaTotGasto.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.login.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.SomaPlanoContas.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralLancamentos.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisãoGeralServiços.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaNovoPagamento.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.CadastroClientes.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaNovoPagamento.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Form1.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroPlanoContas.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaTotGasto.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.login.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.SomaPlanoContas.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralLancamentos.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisãoGeralServiços.resources
+F:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+H:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+H:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+H:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+H:\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.CadastroClientes.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaNovoPagamento.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Form1.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroPlanoContas.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaTotGasto.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.login.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.SomaPlanoContas.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralLancamentos.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisãoGeralServiços.resources
+C:\Users\João\Desktop\JoãoPauloFaro-3INFO2\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.CadastroClientes.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaNovoPagamento.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Form1.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroPlanoContas.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.login.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralLancamentos.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisãoGeralServiços.resources
+C:\Users\13010082\Desktop\JoãoPauloFaro-3INFO3\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaNovoPagamento.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Form1.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.login.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralLancamentos.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisãoGeralServiços.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralRecibos.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.CadastroClientes.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaNovoPagamento.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Form1.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroPlanoContas.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.login.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralLancamentos.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralRecibos.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisãoGeralServiços.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.CadastroClientes.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaNovoPagamento.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Form1.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroPlanoContas.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.login.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralLancamentos.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralRecibos.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisãoGeralServiços.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.MenuConsultas.resources
+C:\Users\13010082\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Demonstrativos.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Demonstrativos.resources
+F:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.MenuConsultas.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.CadastroClientes.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaNovoPagamento.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Demonstrativos.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.MenuConsultas.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Form1.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroPlanoContas.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.login.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralLancamentos.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralRecibos.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisãoGeralServiços.resources
+H:\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.CadastroClientes.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaNovoPagamento.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Demonstrativos.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.MenuConsultas.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Form1.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroPlanoContas.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.login.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralLancamentos.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralRecibos.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisãoGeralServiços.resources
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+C:\Users\João\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.formBaixaRecibos.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroClientes.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.formBaixaRecibos.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Demonstrativos.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.MenuConsultas.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroServiços.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroClientes.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.formBaixaRecibos.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaLançamentos.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Demonstrativos.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.MenuConsultas.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroServiços.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralLancamentos.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralRecibos.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisãoGeralServiços.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralRelatórios.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroClientes.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.formBaixaRecibos.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaLançamentos.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaNovoPagamento.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Demonstrativos.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.MenuConsultas.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Form1.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroServiços.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.login.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralLancamentos.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralRecibos.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralRelatórios.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisãoGeralServiços.resources
+C:\Users\João\Desktop\tcc\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaLançamentos.resources
+C:\Users\Rodrigo\Desktop\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralRelatórios.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroClientes.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.formBaixaRecibos.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaLançamentos.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaRecibosPagos.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaPlanoContas.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Demonstrativos.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.MenuConsultas.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroServiços.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormLancamento.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralLancamentos.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralRecibos.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralRelatórios.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisãoGeralServiços.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.TelaInicial.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.formLogin.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaRecibosPagos.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.TelaInicial.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.formLogin.resources
+E:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.formParametros.resources
+F:\3° Ano\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.formParametros.resources
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.exe
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.pdb
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.xml
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ImpElaborada.resources
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroClientes.resources
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Consulta.resources
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.ConsultaCliente.resources
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.MenuConsultas.resources
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.TelaInicial.resources
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.Resources.resources
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.FormCadastroCheques.resources
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.CustomerChecksChoice.resources
+C:\Users\Rodrigo\Desktop\LP III\Desk Systems\JoãoPauloFaro-3INFO\Desk_NovoLayout\obj\Debug\tela_inicial.VisaoGeralCheques.resources
+C:\Users\Rodrigo\Desktop\Cheques no controle\Desk Systems\Cheques no Controle\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+C:\Users\Rodrigo\Desktop\Cheques no controle\Desk Systems\Cheques no Controle\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+C:\Users\Rodrigo\Desktop\Cheques no controle\Desk Systems\Cheques no Controle\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb

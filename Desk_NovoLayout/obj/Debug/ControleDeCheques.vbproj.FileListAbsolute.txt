@@ -1,0 +1,3 @@
+C:\Users\Rodrigo\Desktop\Cheques no controle\Desk Systems\Cheques no Controle\Desk_NovoLayout\bin\Debug\Desk_NovoLayout.exe.config
+C:\Users\Rodrigo\Desktop\Cheques no controle\Desk Systems\Cheques no Controle\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.xml
+C:\Users\Rodrigo\Desktop\Cheques no controle\Desk Systems\Cheques no Controle\Desk_NovoLayout\obj\Debug\Desk_NovoLayout.pdb

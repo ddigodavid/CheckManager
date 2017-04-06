@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Desk_NovoLayout
+</name>
+</assembly>
+<members>
+<member name="P:tela_inicial.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:tela_inicial.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:tela_inicial.My.Resources.Resources.Botão_Cli1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:tela_inicial.My.Resources.Resources.Botão_Lan1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:tela_inicial.My.Resources.Resources.Botão_Porta1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:tela_inicial.My.Resources.Resources.Botão_Serv1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:tela_inicial.My.Resources.Resources.Btn_Cons1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:tela_inicial.My.Resources.Resources.Btn_Lancamentos1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:tela_inicial.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
