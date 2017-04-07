@@ -111,7 +111,7 @@
         End If
     End Sub
     Public Function search(ByVal customer_id)
-        Dim sql = "SELECT * FROM CHECKS WHERE CUSTOMER_ID = " & customer_id
+        Dim sql = "SELECT ID, BANK AS BANCO, CHECK_NUMBER AS NUMERO, VC, EXPIRATION_DATE AS [DATA DE EXPIRAÇÃO], CHECK_VALUE AS VALOR FROM CHECKS WHERE CUSTOMER_ID = " & customer_id
         Return DataBaseConnection.search(sql)
     End Function
 
