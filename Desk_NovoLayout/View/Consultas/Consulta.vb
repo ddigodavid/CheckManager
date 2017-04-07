@@ -47,69 +47,6 @@
                         ",CLIE_ESTADO AS ESTADO" & _
                         " FROM CLIENTES WHERE CLIE_CNPJ_CPF LIKE '%" & mskBuscar.Text & "%'"
             End If
-
-
-
-        ElseIf gbxOpcoesPlanoContas.Enabled Then
-            If rbtPlanoContasDescricao.Checked Then
-                sql = "SELECT PLCO_ID AS [CÓDIGO]" & _
-                        ",PLCO_DESC AS [DESCRIÇÃO]" & _
-                        ",PLCO_Num_Conta AS [Nº CONTA]" & _
-                        ",PLCO_NUM_REDUZIDO AS [Nº REDUZIDO]" & _
-                        ",PLCO_TIPO AS TIPO" & _
-                        " FROM PLANO_DE_CONTAS WHERE UCASE(PLCO_DESC) LIKE UCASE('%" & mskBuscar.Text & "%')"
-
-            ElseIf rbtPlanoContasNumeroConta.Checked Then
-                sql = "SELECT PLCO_ID AS [CÓDIGO]" & _
-                        ",PLCO_DESC AS [DESCRIÇÃO]" & _
-                        ",PLCO_Num_Conta AS [Nº CONTA]" & _
-                        ",PLCO_NUM_REDUZIDO AS [Nº REDUZIDO]" & _
-                        ",PLCO_TIPO AS TIPO" & _
-                        " FROM PLANO_DE_CONTAS WHERE UCASE(PLCO_Num_Conta) LIKE UCASE('%" & mskBuscar.Text & "%')"
-
-            ElseIf rbtPlanoContasNumeroReduzido.Checked Then
-                sql = "SELECT PLCO_ID AS [CÓDIGO]" & _
-                        ",PLCO_DESC AS [DESCRIÇÃO]" & _
-                        ",PLCO_Num_Conta AS [Nº CONTA]" & _
-                        ",PLCO_NUM_REDUZIDO AS [Nº REDUZIDO]" & _
-                        ",PLCO_TIPO AS TIPO" & _
-                          " FROM PLANO_DE_CONTAS WHERE UCASE(PLCO_NUM_REDUZIDO) LIKE UCASE('%" & mskBuscar.Text & "%')"
-            End If
-
-
-
-        ElseIf gbxOpcoesLancamentos.Enabled Then
-            If rbtOpcLancCodCli.Checked Then
-                sql = "SELECT LARD_ID AS [CÓDIGO]" & _
-                        ",LARD_Cliente AS [CLIENTE]" & _
-                        ",LARD_Val AS [VALOR]" & _
-                        ",LARD_DateLan AS [DATA LANÇAMENTO]" & _
-                        ",LARD_PLCO_DEBITO AS [DÉBITO]" & _
-                        ",LARD_PLCO_CREDITO AS [CRÉDITO]" & _
-                        " FROM LANÇAMENTOS WHERE UCASE(LARD_Cliente) LIKE UCASE('%" & mskBuscar.Text & "%')"
-
-            ElseIf rbtOpcLancDebito.Checked Then
-                sql = "SELECT LARD_ID AS [CÓDIGO]" & _
-                        ",LARD_Cliente AS [CLIENTE]" & _
-                        ",LARD_Val AS [VALOR]" & _
-                        ",LARD_DateLan AS [DATA LANÇAMENTO]" & _
-                        ",LARD_PLCO_DEBITO AS [DÉBITO]" & _
-                        ",LARD_PLCO_CREDITO AS [CRÉDITO]" & _
-                        " FROM LANÇAMENTOS WHERE UCASE(LARD_PLCO_DEBITO) LIKE UCASE('%" & mskBuscar.Text & "%')"
-
-
-            ElseIf rbtOpcLancCredito.Checked Then
-                sql = "SELECT LARD_ID AS [CÓDIGO]" & _
-                        ",LARD_Cliente AS [CLIENTE]" & _
-                        ",LARD_Val AS [VALOR]" & _
-                        ",LARD_DateLan AS [DATA LANÇAMENTO]" & _
-                        ",LARD_PLCO_DEBITO AS [DÉBITO]" & _
-                        ",LARD_PLCO_CREDITO AS [CRÉDITO]" & _
-                        " FROM LANÇAMENTOS WHERE UCASE(LARD_PLCO_CREDITO) LIKE UCASE('%" & mskBuscar.Text & "%')"
-
-
-            End If
-
         End If
 
         DgdGrade.DataSource = objBanco.search(sql)
@@ -119,45 +56,17 @@
         If caller = "Cliente" Then
             rbtClientes.Checked = True
             rbtClienteNome.Checked = True
-
-        ElseIf caller = "Plano de Contas" Then
-            rbtPlanoContas.Checked = True
-            rbtPlanoContasDescricao.Checked = True
-
-        ElseIf caller = "Lançamento" Then
-            rbtLancamentos.Checked = True
-            rbtOpcLancCodCli.Checked = True
-
-
         End If
     End Sub
 
     Private Sub limpar_tela()
         objControle.limpar_tela(Me.gbxOpcoesClientes)
-        objControle.limpar_tela(Me.gbxOpcoesPlanoContas)
-        objControle.limpar_tela(Me.gbxOpcoesLancamentos)
     End Sub
 
     Private Sub rbtClientes_CheckedChanged(sender As Object, e As EventArgs) Handles rbtClientes.CheckedChanged
         destinoConsulta = "Clientes"
         limpar_tela()
         objControle.alternarOpcoesConsulta(gbxOpcoesClientes.Name, Me)
-        mskBuscar.Text = ""
-        mskBuscar.Enabled = False
-
-    End Sub
-    Private Sub rbtPlanoContas_CheckedChanged(sender As Object, e As EventArgs)
-        destinoConsulta = "PlanoContas"
-        limpar_tela()
-        objControle.alternarOpcoesConsulta(gbxOpcoesPlanoContas.Name, Me)
-        mskBuscar.Text = ""
-        mskBuscar.Enabled = False
-
-    End Sub
-    Private Sub rbtLancamentos_CheckedChanged(sender As Object, e As EventArgs) Handles rbtLancamentos.CheckedChanged
-        destinoConsulta = "Lancamentos"
-        limpar_tela()
-        objControle.alternarOpcoesConsulta(gbxOpcoesLancamentos.Name, Me)
         mskBuscar.Text = ""
         mskBuscar.Enabled = False
 
@@ -241,14 +150,6 @@
             rpt.SummaryInfo.ReportTitle = "DeskSystems"
             rpt.SummaryInfo.ReportComments = "Relatório de clientes"
             ImpElaborada.ShowDialog()
-        ElseIf rbtPlanoContas.Checked = True Then
-            Dim rpt As New rptPlanoContas1
-            rpt.SetDataSource(DgdGrade.DataSource)
-            ImpElaborada.CrystalReportViewer1.ReportSource = rpt
-            rpt.SummaryInfo.ReportTitle = "DeskSystems"
-            rpt.SummaryInfo.ReportTitle = "Relatório do plano de contas"
-            ImpElaborada.ShowDialog()
-
         ElseIf rbtLancamentos.Checked = True Then
             Dim rpt As New rptLancamentos
             rpt.SetDataSource(DgdGrade.DataSource)
