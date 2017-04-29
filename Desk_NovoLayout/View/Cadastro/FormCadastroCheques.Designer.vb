@@ -41,6 +41,7 @@ Partial Class FormCadastroCheques
         Me.lbCustomerName = New System.Windows.Forms.Label()
         Me.btnSearchCustomer = New System.Windows.Forms.Button()
         Me.Label1 = New System.Windows.Forms.Label()
+        Me.cbxCleared = New System.Windows.Forms.CheckBox()
         Me.SuspendLayout()
         '
         'btnCancelar
@@ -252,11 +253,23 @@ Partial Class FormCadastroCheques
         Me.Label1.TabIndex = 167
         Me.Label1.Text = "Cliente Selecionado:"
         '
+        'cbxCleared
+        '
+        Me.cbxCleared.AutoSize = True
+        Me.cbxCleared.Enabled = False
+        Me.cbxCleared.Location = New System.Drawing.Point(153, 220)
+        Me.cbxCleared.Name = "cbxCleared"
+        Me.cbxCleared.Size = New System.Drawing.Size(88, 17)
+        Me.cbxCleared.TabIndex = 170
+        Me.cbxCleared.Text = "Compensado"
+        Me.cbxCleared.UseVisualStyleBackColor = True
+        '
         'FormCadastroCheques
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(727, 284)
+        Me.Controls.Add(Me.cbxCleared)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.btnSearchCustomer)
         Me.Controls.Add(Me.lbCustomerName)
@@ -303,4 +316,5 @@ Partial Class FormCadastroCheques
     Friend WithEvents lbCustomerName As System.Windows.Forms.Label
     Friend WithEvents btnSearchCustomer As System.Windows.Forms.Button
     Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents cbxCleared As System.Windows.Forms.CheckBox
 End Class

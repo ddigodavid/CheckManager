@@ -54,7 +54,7 @@
         For Each controle In tela.controls
             If (TypeOf controle Is TextBox Or TypeOf controle Is MaskedTextBox Or TypeOf controle Is ComboBox) And controle.Name.ToUpper <> "TXTCODIGO" Then
                 controle.Enabled = tipo
-            ElseIf TypeOf controle Is RadioButton Then
+            ElseIf TypeOf controle Is RadioButton Or TypeOf controle Is CheckBox Then
                 controle.Enabled = tipo
             ElseIf TypeOf controle Is ComboBox Then
                 controle.Enabled = tipo

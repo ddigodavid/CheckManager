@@ -98,12 +98,12 @@ Partial Class TelaInicial
         Me.ClientSize = New System.Drawing.Size(715, 557)
         Me.Controls.Add(Me.ToolStrip1)
         Me.Controls.Add(Me.MenuStrip1)
-        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.MainMenuStrip = Me.MenuStrip1
         Me.MaximizeBox = False
         Me.Name = "TelaInicial"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "DeskFaturamento"
+        Me.Text = "DeskFaturamentos"
         Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         Me.ToolStrip1.ResumeLayout(False)
         Me.ToolStrip1.PerformLayout()

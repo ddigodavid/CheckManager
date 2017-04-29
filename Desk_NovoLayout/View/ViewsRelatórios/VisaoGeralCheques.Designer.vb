@@ -125,7 +125,7 @@ Partial Class VisaoGeralCheques
         Me.MaximizeBox = False
         Me.Name = "VisaoGeralCheques"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "2º Via de Recibos"
+        Me.Text = "Cheques Cadastrados"
         CType(Me.dgvClientes, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.dgvCheckSheet, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)

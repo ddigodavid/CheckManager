@@ -6,10 +6,11 @@
     Dim check_value As Integer
     Dim check_expirationDate As Date
     Dim check_customer As Integer
+    Dim check_cleared As Boolean
 
     Dim DataBaseConnection As New DataBaseConnection
 
-    Public Property Id As Integer
+    Public Property id As Integer
         Get
             Return check_id
         End Get
@@ -72,6 +73,15 @@
         End Set
     End Property
 
+    Public Property cleared As Integer
+        Get
+            Return check_cleared
+        End Get
+        Set(value As Integer)
+            check_cleared = value
+        End Set
+    End Property
+
     Public Sub gravar(novo As Boolean)
         Dim query As String
 
@@ -82,14 +92,16 @@
                     ",VC" & _
                     ",CHECK_VALUE" & _
                     ",EXPIRATION_DATE" & _
-                    ",CUSTOMER_ID)" & _
+                    ",CUSTOMER_ID" & _
+                    ",CLEARED)" & _
                     " VALUES " & _
                     "('" & check_bank & "'" & _
                     "," & check_number & _
                     "," & check_vc & _
                     "," & check_value & _
                     ",'" & check_expirationDate & "'" & _
-                    "," & check_customer & ")"
+                    "," & check_customer & "" & _
+                    "," & False & ")"
             MessageBox.Show(query)
             DataBaseConnection.execute(query)
 
@@ -99,11 +111,12 @@
         Else
             query = "UPDATE CHECKS SET " & _
                     " BANK='" & check_bank & "'" & _
-                    ",NUMBER='" & check_number & "'" & _
-                    ",VC='" & check_vc & "'" & _
-                    ",VALUE='" & check_value & "'" & _
-                    ",EXPIRATION_DATE=" & check_expirationDate & _
+                    ",CHECK_NUMBER=" & check_number & _
+                    ",VC=" & check_vc & "" & _
+                    ",CHECK_VALUE=" & check_value & _
+                    ",EXPIRATION_DATE='" & check_expirationDate & "'" & _
                     ",CUSTOMER_ID=" & check_customer & _
+                    ",CLEARED=" & check_cleared & _
                     " WHERE ID=" & check_id
 
             DataBaseConnection.execute(query)
@@ -111,11 +124,12 @@
         End If
     End Sub
     Public Function search(ByVal customer_id)
-        Dim sql = "SELECT ID, BANK AS BANCO, CHECK_NUMBER AS NUMERO, VC, EXPIRATION_DATE AS [DATA DE EXPIRAÇÃO], CHECK_VALUE AS VALOR FROM CHECKS WHERE CUSTOMER_ID = " & customer_id
+        Dim sql = "SELECT ID, BANK AS BANCO, CHECK_NUMBER AS NUMERO, VC, EXPIRATION_DATE AS [DATA DE EXPIRAÇÃO], CHECK_VALUE AS VALOR, CLEARED AS COMPENSADO FROM CHECKS WHERE CUSTOMER_ID = " & customer_id
         Return DataBaseConnection.search(sql)
     End Function
 
     Public Function searchTotal(ByVal customer_id)
-        Return "2000.00"
+        Dim Sql = "SELECT SUM(CHECK_VALUE) FROM CHECKS WHERE CUSTOMER_ID = " & customer_id
+        Return DataBaseConnection.search(Sql).Rows(0).Item(0)
     End Function
 End Class
