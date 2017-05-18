@@ -13,10 +13,10 @@
     Private Sub dgvCheckSheet_CellDoubleClick(sender As Object, e As DataGridViewCellEventArgs) Handles dgvCheckSheet.CellDoubleClick
         If caller = FormCadastroCheques.caller Then
 
-            FormCadastroCheques.CheckId = dgvCheckSheet.CurrentRow.Cells(0).Value
             FormCadastroCheques.CustomerId = dgvClientes.CurrentRow.Cells(0).Value
-
             FormCadastroCheques.lbCustomerName.Text = dgvClientes.CurrentRow.Cells(1).Value
+
+            FormCadastroCheques.CheckId = dgvCheckSheet.CurrentRow.Cells(0).Value
             FormCadastroCheques.checkBank.Text = dgvCheckSheet.CurrentRow.Cells(1).Value
             FormCadastroCheques.checkNumber.Text = dgvCheckSheet.CurrentRow.Cells(2).Value
             FormCadastroCheques.checkVc.Text = dgvCheckSheet.CurrentRow.Cells(3).Value

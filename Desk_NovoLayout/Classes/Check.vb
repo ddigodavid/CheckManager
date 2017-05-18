@@ -100,12 +100,11 @@
                     "," & check_vc & _
                     "," & check_value & _
                     ",'" & check_expirationDate & "'" & _
-                    "," & check_customer & "" & _
+                    "," & check_customer & _
                     "," & False & ")"
-            MessageBox.Show(query)
             DataBaseConnection.execute(query)
 
-            query = "SELECT MAX(CHECK_ID) FROM CHECKS"
+            query = "SELECT MAX(ID) FROM CHECKS"
             check_id = DataBaseConnection.searchLast(query)
 
         Else

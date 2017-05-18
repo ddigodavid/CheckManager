@@ -39,6 +39,8 @@
             Check.cleared = cbxCleared.Checked
             Check.gravar(novo)
 
+            btnAlterar.Enabled = True
+
             Controle.habilitar_tela(Me, False)
             Controle.habilitar_botoes(Me, True)
         End If

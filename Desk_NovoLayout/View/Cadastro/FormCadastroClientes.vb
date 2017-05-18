@@ -46,6 +46,7 @@
             Controle.habilitar_tela(Me, False)
             Controle.habilitar_botoes(Me, True)
             btnAlterar.Enabled = True
+            btnCheques.Enabled = True
         End If
     End Sub
 
